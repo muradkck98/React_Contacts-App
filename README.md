@@ -75,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### After
 ![image](https://user-images.githubusercontent.com/78261728/186536133-4fa5eff3-0a23-4948-a6b4-318210d1021e.png)
+
+
+source: https://www.udemy.com/course/react-redux-egitimi/learn/lecture/26861834#content
